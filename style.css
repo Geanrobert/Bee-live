@@ -1,0 +1,38 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0078d7;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+
+.firmware-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+}
+
+.firmware {
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  width: 300px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+button {
+  background: #0078d7;
+  color: white;
+  padding: 0.5rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
