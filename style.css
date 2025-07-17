@@ -35,7 +35,9 @@ header h1 {
 
 header p {
   font-size: 1.4rem;
-  margin-top: 0; /* elimina espaço acima do subtítulo */
+  font-weight: bold;
+  margin-top: 0;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
 }
 
 .firmware-list {
