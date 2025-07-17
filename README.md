@@ -10,7 +10,6 @@ Created by Gean R.
 ------------------------------------------
 Revision Summary
 
-------------------------------------------
 Gean R. July 2025 (ver 1.1)
 Octave updates
 
